@@ -1,0 +1,27 @@
+// ignore_for_file: prefer_const_declarations
+final String splashImage = './assets/images/splashImage.png';
+final String onboardingOne = './assets/images/onboardingOne.png';
+final String onboardingTwo = './assets/images/onboardingTwo.png';
+final String onboardingThree = './assets/images/onboardingThree.png';
+final String noImage = './assets/images/no-image.jpg';
+final String bottomNav = './assets/images/bottomNav.png';
+final String profile = './assets/images/profile.png';
+final String cardImage = './assets/images/cardImage.png';
+final String profileTwo = './assets/images/profileTwo.png';
+final String profileThree = './assets/images/profileThree.png';
+final String profileFour = './assets/images/profileFour.png';
+final String mapMarkerTwo = 'assets/images/map_marker2.png';
+final String newMapMarker = 'assets/images/new_map_marker.png';
+final String newMapMarkerAndroid = 'assets/images/new_map_marker_android.png';
+final String mapMarker = 'assets/images/map_marker.png';
+final String mapMarkerIos = 'assets/images/map_marker_ios.png';
+final String mapMarkerTwoIos = 'assets/images/map_marker_2_ios.png';
+final String peopleMarker = 'assets/images/people_marker.png';
+final String peopleMarkerIos = 'assets/images/people_marker_ios.png';
+final String mapMarkerNew = 'assets/images/mapMarker.png';
+final String backFrame = 'assets/images/backFrame.png';
+final String backFrameIos = 'assets/images/backFrameIos.png';
+final String dispute = './assets/images/dispute.png';
+final String homeBg = './assets/images/homeBg.png';
+final String nearbyBannerImage = './assets/images/nearbyBannerImage.png';
+final String stripeDashboard = './assets/images/stripeDashboard.png';

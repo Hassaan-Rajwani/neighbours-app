@@ -1,0 +1,13 @@
+const String interRegular = 'InterRegular';
+const String interMedium = 'InterMedium';
+const String interSemibold = 'InterSemibold';
+const String interBold = 'InterBold';
+const String ralewaySemibold = 'RalewaySemibold';
+const String ralewayExtrabold = 'RalewayExtrabold';
+const String nunitoMedium = 'NunitoNormal';
+const String ralewayBold = 'RalewayBold';
+const String ralewayMedium = 'ralewayMedium';
+const String urbanistSemiBold = 'urbanistSemiBold';
+const String urbanistMedium = 'UrbanistMedium';
+const String urbanistBold = 'UrbanistBold';
+const String urbanistRegular = 'UrbanistRegular';
